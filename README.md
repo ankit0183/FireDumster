@@ -6,7 +6,7 @@ The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for buil
 
 The toolset is designed to be dynamically extensible, allowing you to create your own Fires (event modules) to add to the included collection of toolset Fires. Just write your own Fire module and drop it into the FireModules directory. The DumpsterFire toolset will auto-detect your custom Fires at startup and make them available for use.
 
-<img src=https://github.com/ankit0183/DumpsterFire/blob/master/Screenshots/DumpsterFireMainMenu.png></img>
+<img src=https://github.com/ankit0183/FireDumster/blob/master/Screenshots/DumpsterFireMainMenu.png></img>
 
 # Author
 
